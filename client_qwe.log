@@ -1,0 +1,40 @@
+INFO:root:Private key is written to file
+INFO:root:Private key ->b'-----BEGIN RSA PRIVATE KEY-----\nMIICXAIBAAKBgQC8FLcfy/xiKOSCJN6XbII6UzkbCM2Mx9BA4+xpSc3ZjY45YMiH\nRHcwJbuOWR00FMZY1xi10nacZKNjAhBvZgc3T98saA6JEQnWOVjn51siXVwLkHZF\niP2hn677CK27nGjDLz/at7CSZeFekeQrIcldDLwWesQjooLY8D0EXCUPzwIDAQAB\nAoGAHnc9OegpKoiqNHn0GSjT/Xj5S+uZ9CnHuO3Sn97Qeo2HUhG0hH4ZemdE9tLG\nPBH4wRpH3+fxcPWM+8mGpQIsvR3taA5SE0atRcBY0Qo9jU5igA8zNtJ4NQymV6nS\n4++eWCY2Ry95tg3216jgeoh/jy0ue53Js9hy4CXViLdogdUCQQDQUXdt/GeDVnj2\nwtaohJI0FoW6efU5tgAltz5jjsa5ZI8o7v7TN610KpuL4UtXM/1KXUgxQMfSTliQ\nDWglBT7FAkEA5yFubFQDxP+++6JqvAxzaOMr4uuxqD45ubXIdyDiL3lb7vp3N/bx\nOf0jYqxqk8nDdvJzRVqIaxHev5muuI09gwJBAMBaGO8D2wjY9cTUT6U3FFDoYv62\n0gpB1Yz90KvZEAHrqozfcYjSpmTXWt0kYI7awIzD6X8hE+FK2lfZKUrVtwkCQHWR\nE9IWijRSwprM6u3sh2f65f/vU9b4j/Re+zFdkLAFUzYkQTA+dEXC9ZTjjvLN1pdS\njD/i5TFRTbS4P5+weHECQASggru+MOrCIBnUtjgOmSmBE9URQlZvla0qI5UAjUng\nu5DnkKlKBgGfRKMn2t7DmimBrgg6LdlOhg4BO5znuF4=\n-----END RSA PRIVATE KEY-----'
+INFO:root:Public key is written to file
+INFO:root:Public key ->b'-----BEGIN PUBLIC KEY-----\nMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC8FLcfy/xiKOSCJN6XbII6Uzkb\nCM2Mx9BA4+xpSc3ZjY45YMiHRHcwJbuOWR00FMZY1xi10nacZKNjAhBvZgc3T98s\naA6JEQnWOVjn51siXVwLkHZFiP2hn677CK27nGjDLz/at7CSZeFekeQrIcldDLwW\nesQjooLY8D0EXCUPzwIDAQAB\n-----END PUBLIC KEY-----'
+INFO:root:Register started
+INFO:root:Verification started
+INFO:root:Public key ->b'-----BEGIN PUBLIC KEY-----\nMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC99S+ebJlyBL8hY4Za7PWR2zcy\nfvNJls20zxcZDVJ7KbAwwkuuSp0PJEAq3wcFfyjl0VqeLxM4GAxKgilut2Z10fwg\nYo4982f+UGQrlq+AI1iKbOujlCMWXTyJwfelPIGZr/MiYhWP/Itrz/l1rj4b6SSw\nbmYfvWYzgVfgRcfHewIDAQAB\n-----END PUBLIC KEY-----'
+INFO:root:Hashed public key -><Crypto.Hash.SHA256.SHA256Hash object at 0x0000026F92051590>
+INFO:root:Server response ->b'D5\xd4I"6\xd9L\x9bhu\xcf\xafu\x987J\xd6>;Hv\x8fBV\'y\xea\xe3\x13\xba\x81\xb3\xd6\xbd\xd55d\xf8\xc2\xa3L\x19\x80C\x1b\xcfOG\x91\xed\xb1}\xb6@z\xb5Y@\xed t\xcd4.7A\xdf\xef\xe0\xe2n\xe4K\xfeG;\xfd\n4\x8a\xec[\xdf\x8d>yg\x02\x11\x8e\x04\xe5\x96m\xe9\x8a\xb2B\xa2\xd9d\x9c*+{(\xac\x8e\xdd\xe8\xbd\x17\x0f%\xea\x8fS\x08\\\x98\x1f\xbamv?5\xb8'
+INFO:root:Verification is OK
+INFO:root:Certificate is written to file
+INFO:root:Register successful
+INFO:root:Sunucudan yanýt: {"status": "ok", "requested_port": 4675, "requested_certificate": "WKg1Gpqi67zxtmGMVQZtYRkJCR5QZ52OIgOBePDf6rWU40qX8J3aG0SM/HLWNCI+9fSbZP4XHZABQZsndMMwCyvSq5t6SPNektojYF16Do/LRO/MX8xcaf82q1teBgMBMt2x9xCSf/9BsSLMUu+z1ItzN5sHl2pws6Bm3ODEHDQ=", "requested_publickeyofreceiver": "-----BEGIN PUBLIC KEY-----\nMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDuS33fnZwVbVuWsBdqq+0cX8+h\nROdrfqZGNGP1uAFdvVeteRJbZY6N5BIg5sapAmrxPxMk6VK1igaRkuNV1tQEDiCZ\nP8QepQB/UIFiZ5thetN6TzL+2HLCaiTLWNS4f1M2I+nPsHkXxCzZ8+FFknGyRM5C\nbLUMFYAp/wCColF5eQIDAQAB\n-----END PUBLIC KEY-----"}
+INFO:root:Handshake is needed.
+INFO:root:Verification is started
+INFO:root:Public key ->b'-----BEGIN PUBLIC KEY-----\nMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC99S+ebJlyBL8hY4Za7PWR2zcy\nfvNJls20zxcZDVJ7KbAwwkuuSp0PJEAq3wcFfyjl0VqeLxM4GAxKgilut2Z10fwg\nYo4982f+UGQrlq+AI1iKbOujlCMWXTyJwfelPIGZr/MiYhWP/Itrz/l1rj4b6SSw\nbmYfvWYzgVfgRcfHewIDAQAB\n-----END PUBLIC KEY-----'
+INFO:root:Hashed public key -><Crypto.Hash.SHA256.SHA256Hash object at 0x0000026F92206A10>
+INFO:root:Server response ->b'X\xa85\x1a\x9a\xa2\xeb\xbc\xf1\xb6a\x8cU\x06ma\x19\t\t\x1ePg\x9d\x8e"\x03\x81x\xf0\xdf\xea\xb5\x94\xe3J\x97\xf0\x9d\xda\x1bD\x8c\xfcr\xd64">\xf5\xf4\x9bd\xfe\x17\x1d\x90\x01A\x9b\'t\xc30\x0b+\xd2\xab\x9bzH\xf3^\x92\xda#`]z\x0e\x8f\xcbD\xef\xcc_\xcc\\i\xff6\xab[^\x06\x03\x012\xdd\xb1\xf7\x10\x92\x7f\xffA\xb1"\xccR\xef\xb3\xd4\x8bs7\x9b\x07\x97jp\xb3\xa0f\xdc\xe0\xc4\x1c4'
+INFO:root:Secrets file created.
+INFO:root:Master Secret: ed05883b5f4725fc518bded5d1b3dffdda6b4beb4fb25a7afa2cd7da03e5d244
+INFO:root:IV: af8ee403f09a332723707ba312464c70
+INFO:root:HMAC Key: f9f04e5265c5c4902b0de87ca26dda5bef00d83a2f6813541d7d9a9bc8952588
+INFO:root:Secret Key: 6e88be8bad7eae9d9e10aa061224034fed48d03fcbad968b56006784539d5214
+INFO:root:Handshake is successful.
+INFO:root:Plain Text: sa knk
+INFO:root:Cipher Text: b',;j\xe8\x04\xa4\x89E\x9c\xe7\\\xa9\t\xda\xa6]'
+INFO:root:Message is sent to eoq
+INFO:root:Plain Text: nbr
+INFO:root:Cipher Text: b'\xf6\x07\x8cq\xeew\x9d\xfd\x00\x18\x1f\xc2\xbcX7\x9f'
+INFO:root:Message is sent to eoq
+INFO:root:Ciphertext (received) b'\xf3\xca\xdb\x1a\x9d\xfd\x85ZS\xcb\x18G\xbfx\x9ab'
+INFO:root:HMAC integrity verified. OK.
+INFO:root:Timestamp verification ok.
+INFO:root:Plaintext (received) as knk
+INFO:root:Receiver1: {'eoq': [(1, 'sa knk'), (1, 'nbr'), (0, 'as knk')]}
+INFO:root:Ciphertext (received) b'\xc8\x10X\x15\xe6\xc3g_\xad\xa7\x10\xb3\xe1\x00\xad\x85'
+INFO:root:HMAC integrity verified. OK.
+INFO:root:Timestamp verification ok.
+INFO:root:Plaintext (received) snden
+INFO:root:Receiver1: {'eoq': [(1, 'sa knk'), (1, 'nbr'), (0, 'as knk'), (0, 'snden')]}
